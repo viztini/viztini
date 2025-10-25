@@ -19,7 +19,7 @@ I’m driven by curiosity about how computers, networks, and people interact in 
 ## Languages and Tools
 - **Programming:** Python, Rust, C, C#, C++  
 - **Web:** HTML, CSS, JavaScript  
-- **Other:** Ruby, Shell, Linux  
+- **Other:** Ruby, Shell, Linux, Assembly  
 
 ---
 
