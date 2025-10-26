@@ -31,6 +31,13 @@ I’m driven by curiosity about how computers, networks, and people interact in 
 
 ---
 
+## Projects
+- **[vizOS](https://github.com/viztini/vizOS):** My custom OS written in C, focusing on modularity and simplicity.
+- **[pacboy](https://github.com/viztini/pacboy):** A friendly CLI package manager for Arch Linux.
+- **[rubyental](https://github.com/viztini/rubyental):** Terminal-based mental well-being app in Ruby.
+
+---
+
 ## Interests
 - Cybersecurity and digital privacy  
 - Operating systems and low-level computing  
