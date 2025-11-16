@@ -48,9 +48,8 @@ I’m driven by curiosity about how computers, networks, and people interact in 
 ---
 
 ## GitHub Stats
-![viztini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viztini&show_icons=true&theme=graywhite)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viztini&layout=compact&theme=graywhite)
 
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
