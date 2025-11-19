@@ -59,5 +59,5 @@ I’m driven by curiosity about how computers, networks, and people interact in 
 ###
 ---
 <p align="center">
-  "No matter where you go, everyone's connected."_
+"No matter where you go, everyone's connected."
 </p>
