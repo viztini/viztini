@@ -62,19 +62,3 @@ I’m driven by curiosity about how computers, networks, and people interact in 
     height="180"
   />
 </p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=viztini&theme=transparent&date_format=j%20M%5B%20Y%5D"
-    height="180"
-  />
-</p>
-
-<!-- GitHub "Level" / Profile Trophy -->
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=viztini&theme=onestar&row=1&column=6"
-  />
-</p>
-
