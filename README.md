@@ -47,23 +47,34 @@ I’m driven by curiosity about how computers, networks, and people interact in 
 
 ---
 
-## GitHub Stats
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=viztini&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=viztini&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt=""  />
-</div>
-
-###
-
+<!-- GitHub Stats -->
 <p align="center">
-[![viztini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viztini)](https://github.com/anuraghazra/github-readme-stats)
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=viztini&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"
+    height="180"
+  />
 </p>
 
-###
----
+<!-- Languages -->
 <p align="center">
-"No matter where you go, everyone's connected."
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viztini&layout=compact&theme=transparent"
+    height="180"
+  />
 </p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=viztini&theme=transparent&date_format=j%20M%5B%20Y%5D"
+    height="180"
+  />
+</p>
+
+<!-- GitHub "Level" / Profile Trophy -->
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=viztini&theme=onestar&row=1&column=6"
+  />
+</p>
+
