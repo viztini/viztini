@@ -46,19 +46,3 @@ I’m driven by curiosity about how computers, networks, and people interact in 
 - CLI and TUI interfaces
 
 ---
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=viztini&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"
-    height="180"
-  />
-</p>
-
-<!-- Languages -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viztini&layout=compact&theme=transparent"
-    height="180"
-  />
-</p>
