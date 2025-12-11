@@ -1,48 +1,53 @@
-# Hi, I'm viztini
+---
 
-> "No matter where you go, everyone's connected." — Serial Experiments Lain
+> "no matter where you go, everyone's connected." — *serial experiments lain*
 
-I'm a student currently taking **CS50 from Harvard**, learning the foundations of computer science, programming, and problem-solving.  
-My interests lie in **systems programming**, **cybersecurity**, and **the intersection between technology and digital identity**.  
-I’m driven by curiosity about how computers, networks, and people interact in the wired world.
+exploring the wired world.
+machines, networks, people.
+curiosity drives everything.
 
 ---
 
-## About Me
-- Student and aspiring developer  
-- Interested in cybersecurity, computer systems, and programming languages  
-- Focused on learning through practical projects and exploration  
-- Inspired by the aesthetics and themes of Serial Experiments Lain  
+## about
+
+* student / developer / systems tinkerer
+* obsessed with cybersecurity, low-level computing, digital identity
+* learning by building, breaking, debugging
+* inspired by *serial experiments lain*
 
 ---
 
-## Languages and Tools
-- **Programming:** Python, Rust, C, C#, C++  
-- **Web:** HTML, CSS, JavaScript  
-- **Other:** Ruby, Shell, Linux, Assembly  
+## skills
+
+* **programming:** python, rust, c, c#, c++
+* **web:** html, css, javascript
+* **other:** ruby, shell, linux, assembly, cli/tui design
 
 ---
 
-## Currently Learning
-- **CS50 (Harvard)**: computer science fundamentals  
-- **Cybersecurity basics**: networking, Linux security, ethical hacking concepts  
-- **Systems programming** with C and Rust  
-- Web development and deployment  
+## learning
+
+* cs50 (harvard): foundations of computer science
+* cybersecurity: networking, linux security, ethical hacking
+* systems programming: low-level c + rust
+* web dev: deployment, optimization
 
 ---
 
-## Projects
-- **[vizOS](https://github.com/viztini/vizOS):** My custom OS written in C, focusing on modularity and simplicity.
-- **[pacboy](https://github.com/viztini/pacboy):** A friendly CLI package manager for Arch Linux.
-- **[rubyental](https://github.com/viztini/rubyental):** Terminal-based mental well-being app in Ruby.
+## projects
+
+* **[vizos](https://github.com/viztini/vizOS):** modular os in c
+* **[pacboy](https://github.com/viztini/pacboy):** cli package manager for arch linux
+* **[rubyental](https://github.com/viztini/rubyental):** terminal-based mental well-being app
 
 ---
 
-## Interests
-- Cybersecurity and digital privacy  
-- Operating systems and low-level computing  
-- The philosophy of technology and online identity  
-- Serial Experiments Lain
-- CLI and TUI interfaces
+## interests
+
+* cybersecurity & digital privacy
+* operating systems & low-level computing
+* philosophy of technology & online identity
+* cli / tui interfaces
+* *serial experiments lain*
 
 ---
