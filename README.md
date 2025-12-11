@@ -1,5 +1,3 @@
----
-
 > "no matter where you go, everyone's connected." — *serial experiments lain*
 
 exploring the wired world.
@@ -27,7 +25,7 @@ curiosity drives everything.
 
 ## learning
 
-* cs50 (harvard): foundations of computer science
+* cs50 (harvard (taking online for free) ): foundations of computer science
 * cybersecurity: networking, linux security, ethical hacking
 * systems programming: low-level c + rust
 * web dev: deployment, optimization
