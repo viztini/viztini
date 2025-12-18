@@ -36,7 +36,7 @@ curiosity drives everything.
 
 * **[vizos](https://github.com/viztini/vizOS):** modular os in c
 * **[pacboy](https://github.com/viztini/pacboy):** cli package manager for arch linux
-* **[rubyental](https://github.com/viztini/rubyental):** terminal-based mental well-being app
+* **[rubyental](https://github.com/viztini/aerominal):** my own terminal emulator written in python (still in python)
 
 ---
 
