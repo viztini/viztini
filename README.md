@@ -17,9 +17,9 @@ curiosity drives everything.
 
 ## skills
 
-* **programming:** python, rust, c, c#, c++
+* **programming:** python, rust, c, c#, c++, ruby, bash, assembly, lua
 * **web:** html, css, javascript
-* **other:** ruby, shell, linux, assembly, cli/tui design
+* **other:** linux, windows, unix systems, mac os, cli/tui design
 
 ---
 
