@@ -6,7 +6,7 @@ curiosity drives everything.
 
 ---
 
-## about
+## about me
 
 * student / developer / systems tinkerer
 * obsessed with cybersecurity, low-level computing, digital identity
@@ -17,7 +17,7 @@ curiosity drives everything.
 
 ## skills
 
-* **programming:** python, rust, c, c#, c++, ruby, bash, assembly, lua
+* **programming:** python, rust, c, c#, c++, ruby, bash, some assembly, lua, java
 * **web:** html, css, javascript
 * **other:** linux, windows, unix systems, mac os, cli/tui design
 
