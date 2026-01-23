@@ -8,7 +8,7 @@ curiosity drives everything.
 
 ## about me
 
-* student / developer / systems tinkerer
+* student / developer / systems tinkerer / frontend & backend
 * obsessed with cybersecurity, low-level computing, digital identity
 * learning by building, breaking, debugging
 * inspired by *serial experiments lain*
