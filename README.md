@@ -5,7 +5,7 @@ machines, networks, people.
 curiosity drives everything.
 
 ---
-[![viztini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viztini)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## about me
