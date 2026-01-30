@@ -28,7 +28,7 @@ curiosity drives everything.
 ## learning
 
 * what i'm learning at the moment: Java
-* cs50 (harvard (taking online for free) ): foundations of computer science
+* cs50 (harvard (taking online for free)): foundations of computer science
 * cybersecurity: networking, linux security, ethical hacking
 * systems programming: low-level c, rust and some uefi shell here and there
 * web dev: deployment, optimization
