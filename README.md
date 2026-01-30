@@ -19,7 +19,7 @@ curiosity drives everything.
 
 ## skills
 
-* **programming:** python, rust, c, ruby, bash, some assembly, lua
+* **programming:** python, rust, c, ruby, bash, some assembly, lua, but (the pico8 and picotron type), QML
 * **web:** html, css, javascript
 * **other:** linux, windows, unix systems, mac os, cli/tui design, uefi shell
 
