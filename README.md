@@ -19,17 +19,18 @@ curiosity drives everything.
 
 ## skills
 
-* **programming:** python, rust, c, c#, c++, ruby, bash, some assembly, lua, java
+* **programming:** python, rust, c, ruby, bash, some assembly, lua
 * **web:** html, css, javascript
-* **other:** linux, windows, unix systems, mac os, cli/tui design
+* **other:** linux, windows, unix systems, mac os, cli/tui design, uefi shell
 
 ---
 
 ## learning
 
+* what i'm learning at the moment: Java
 * cs50 (harvard (taking online for free) ): foundations of computer science
 * cybersecurity: networking, linux security, ethical hacking
-* systems programming: low-level c + rust
+* systems programming: low-level c, rust and some uefi shell here and there
 * web dev: deployment, optimization
 
 ---
