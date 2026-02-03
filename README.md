@@ -1,46 +1,30 @@
-> "no matter where you go, everyone's connected." — *serial experiments lain*
+> “no matter where you go, everyone’s connected.” — serial experiments lain
 
-exploring the wired world.
-machines, networks, people.
-curiosity drives everything.
+i build things to understand how they work.
+mostly systems, web, and security-related.
+this repo is where that work ends up.
 
----
-
----
-
-## about me
-
-* student / developer / systems tinkerer / frontend & backend
-* obsessed with cybersecurity, low-level computing, digital identity
-* learning by building, breaking, debugging
-* inspired by *serial experiments lain*
-
----
+## about
+student developer.
+interested in low-level systems, cybersecurity, and how software shapes identity.
+i learn by building, breaking, and fixing things.
+lain stuck with me.
 
 ## skills
-
-* **programming:** python, rust, c, ruby, bash, some assembly, lua, but (the pico8 and picotron type), QML
-* **web:** html, css, javascript
-* **other:** linux, windows, unix systems, mac os, cli/tui design, uefi shell
-
----
+**languages:** python, rust, c, ruby, bash, some assembly, lua (pico-8 / picotron), qml  
+**web:** html, css, javascript  
+**systems:** linux, windows, unix-like systems, macos, cli/tui design, uefi shell
 
 ## learning
-
-* what i'm learning at the moment: Java
-* cs50 (harvard (taking online for free)): foundations of computer science
-* cybersecurity: networking, linux security, ethical hacking
-* systems programming: low-level c, rust and some uefi shell here and there
-* web dev: deployment, optimization
-
----
+currently learning Java  
+cs50 (harvard, online)  
+networking and linux security  
+systems programming in c and rust  
+web deployment and optimization
 
 ## interests
-
-* cybersecurity & digital privacy
-* operating systems & low-level computing
-* philosophy of technology & online identity
-* cli / tui interfaces
-* *serial experiments lain*
-
----
+cybersecurity & privacy  
+operating systems  
+low-level computing  
+cli / tui interfaces  
+serial experiments lain
