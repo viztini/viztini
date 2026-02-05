@@ -28,3 +28,7 @@ operating systems
 low-level computing  
 cli / tui interfaces  
 serial experiments lain
+
+![](https://raw.githubusercontent.com/viztini/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/viztini/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
