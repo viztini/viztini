@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-> “no matter where you go, everyone’s connected.” — serial experiments lain
+> i build solutions for problems nobody has
 
 i build things to understand how they work.
 mostly systems, web, and security-related.
@@ -18,3 +18,7 @@ mostly systems, web, and security-related.
 ## about
 student developer.
 i learn by building, breaking, and fixing things.
+
+# learning
+i learn whatever intrests me
+
