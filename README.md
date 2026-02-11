@@ -23,3 +23,5 @@ i learn by building, breaking, and fixing things.
 i learn whatever interests me
 
 ![oh yeah im so cool yk](github-user-contribution.svg)
+
+> aw man not my github commits! i worked hard for those!
