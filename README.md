@@ -20,5 +20,6 @@ student developer.
 i learn by building, breaking, and fixing things.
 
 # learning
-i learn whatever intrests me
+i learn whatever interests me
 
+![oh yeah im so cool yk](github-user-contribution.svg)
