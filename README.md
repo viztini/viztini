@@ -18,15 +18,3 @@ mostly systems, web, and security-related.
 ## about
 student developer.
 i learn by building, breaking, and fixing things.
-
-## skills
-**languages:** python, rust, c, ruby, bash, some assembly, lua (pico-8 / picotron), qml, batch  
-**web:** html, css, javascript  
-**systems:** linux, windows, unix-like systems, macos, cli/tui design, uefi shell
-
-## interests
-cybersecurity & privacy  
-operating systems  
-low-level computing  
-cli / tui interfaces  
-serial experiments lain
