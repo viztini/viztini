@@ -12,4 +12,4 @@
 
 > if it compiles, it ships.
 ---
-open to collaborate
+overconfident idiot
