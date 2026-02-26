@@ -12,4 +12,4 @@
 
 > if it compiles, it ships.
 ---
-overconfident idiot
+professional idiot
