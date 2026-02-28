@@ -12,4 +12,4 @@
 
 > if it compiles, it ships.
 ---
-professional idiot
+good for nothing
