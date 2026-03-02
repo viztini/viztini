@@ -12,4 +12,4 @@
 
 > if it compiles, it ships.
 ---
-good for nothing
+uefi tweaker
